@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsecrypt",
+        "uuid": 3571854,
+        "checksum": "94fdga"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
